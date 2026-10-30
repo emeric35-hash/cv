@@ -30,11 +30,17 @@ Le bouton en bas de page (ou la commande `pdf`) télécharge la version imprimab
 | `help` | liste des commandes |
 | `clear` | vider l'écran |
 
+## Statut
+
+Recherche un poste en support & maintenance IT — disponible immédiatement,
+en parallèle d'un BTS SIO option SLAM en cours (2026 – 2027).
+
 ## Contact
 
 - Téléphone : 06.18.32.44.92
 - Email : emeric.35@gmail.com
 - Zone : Saint-Malo et Côte d'Émeraude (35400) — permis B, véhiculé
+- Recherche : poste en support et maintenance informatique, disponible immédiatement
 
 ## Techniquement
 
